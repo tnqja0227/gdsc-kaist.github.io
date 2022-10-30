@@ -1,0 +1,11 @@
+Bongjun Jang:
+  name        : "Bongjun Jang"
+  bio         : "I love vim and Rust"
+  avatar      : "/assets/images/bongjun.jang.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "bongjun.jang@kaist.ac.kr"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://bonjune.github.io"
