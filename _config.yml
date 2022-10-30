@@ -29,6 +29,17 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  
+author:
+  name: "GDSC KAIST"
+  avatar: "/assets/images/logo.jpg"
+  bio: "Google Developer Student Club"
+  location: "Daejeon, KR"
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/gdsc.kaist"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
