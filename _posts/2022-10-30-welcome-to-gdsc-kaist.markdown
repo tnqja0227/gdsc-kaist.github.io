@@ -3,6 +3,9 @@ layout: single
 title:  Welcome to GDSC KAIST
 date:   2022-10-30 18:30:26 +0900
 author: Bongjun Jang
+
+header:
+  image: logo.jpg
 ---
 
 # Register yourself as an author of this blog
