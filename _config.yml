@@ -40,6 +40,14 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/gdsc.kaist"
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
+      toc: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
