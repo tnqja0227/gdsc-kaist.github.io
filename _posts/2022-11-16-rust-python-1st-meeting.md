@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  Welcome to GDSC KAIST
+title:  RustPython Contribution 1차 미팅: UTF-8 and Lexer
 date:   2022-11-16 18:30:26 +0900
 author: Bongjun Jang
 
