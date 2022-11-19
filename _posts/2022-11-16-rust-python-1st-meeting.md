@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  Welcome to GDSC KAIST
-date:   2022-10-30 18:30:26 +0900
+date:   2022-11-16 18:30:26 +0900
 author: Bongjun Jang
 
 header:
